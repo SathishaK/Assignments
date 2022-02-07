@@ -1,4 +1,11 @@
-﻿using System;using System.Collections.Generic;using System.Linq;using System.Text;using System.Threading.Tasks;namespace Assigns{
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Assigns
+{
         class SumOfEvenAndOdd
         {
             static void Main(string [] args)
@@ -30,4 +37,5 @@
                 Console.WriteLine($"Odd Sum is: {oddSum}");
             }
         }
-   }
+   
+}
